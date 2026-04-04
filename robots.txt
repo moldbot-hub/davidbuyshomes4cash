@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://davidbuyshomes4cash.com/sitemap.xml
