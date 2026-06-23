@@ -1,0 +1,15 @@
+{
+  "name": "David Buys Homes 4 Cash",
+  "short_name": "DavidBuysHomes",
+  "theme_color": "#1f3851",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
