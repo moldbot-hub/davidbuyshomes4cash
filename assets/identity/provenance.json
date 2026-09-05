@@ -1,0 +1,33 @@
+{
+  "domain": "davidbuyshomes4cash.com",
+  "provider": "OpenArt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "resolution_tier": "4k",
+  "resolution_note": "OpenArt 4K locked 4:3 preset reports 2688 x 2016 pixels; actual output dimensions are preserved.",
+  "source_dimensions": {
+    "width": 2688,
+    "height": 2016
+  },
+  "history_id": "75n2QaLiorP6gplV6z67",
+  "resource_id": "UAwpr74MRmJHfdi2DAEz",
+  "generated_at": "2026-09-05T16:19:14.210787+00:00",
+  "theme": "Personal welcome / warm navy",
+  "prompt": "Create a premium editorial website hero image. Art direction: Personal welcome / warm navy. Subject: Welcoming modest Northwest home front porch with a warm navy door, cedar bench and simple green plant, soft golden afternoon, approachable and unpretentious composition, no people or branded signage. Outstanding material realism, sophisticated composition, natural optical perspective, carefully controlled lighting and tactile fine detail. Conceptual illustrative scene, not a named real property or completed customer project. No people, faces, readable text, numerals, logos, watermarks, street addresses, license plates, branded products or fake credentials. Horizontal landscape 4:3 composition, central crop-safe focal point with breathing room for responsive use. Avoid collage borders, excessive HDR, plastic CGI sheen and generic stock-photo staging.",
+  "kind": "AI-generated illustration",
+  "caption": "Illustrative concept; not a completed customer project.",
+  "assets": {
+    "hero-small.webp": {
+      "bytes": 57302,
+      "sha256": "bdacac5543154f31c5700b660711dcbcf13bb28cae0eeccc0fd62e6f2488d35f"
+    },
+    "hero.webp": {
+      "bytes": 195080,
+      "sha256": "3e47892de3d93749ed942a95a19dc8581ea221993f87d4667cc8406f2817aaa2"
+    },
+    "og.jpg": {
+      "bytes": 191452,
+      "sha256": "636a04d1a53cca50f0609278415f61264db6b7cedc72422a06f4d1f852405d07"
+    }
+  }
+}
