@@ -1,4 +1,15 @@
-/areas/lakewood                    /areas.html  301
-/areas/lynnwood                    /areas.html  301
-/areas/kent                        /areas.html  301
-/areas/vancouver                   /areas.html  301
+/areas/lakewood                    /areas  301
+/areas/lynnwood                    /areas  301
+/areas/kent                        /areas  301
+/areas/vancouver                   /areas  301
+
+/about.html /about 301
+/areas.html /areas 301
+/faq.html /faq 301
+/foreclosure-help.html /foreclosure-help 301
+/get-offer.html /get-offer 301
+/how-it-works.html /how-it-works 301
+/privacy.html /privacy 301
+/seller-planning-guide.html /seller-planning-guide 301
+/terms.html /terms 301
+/index.html / 301
